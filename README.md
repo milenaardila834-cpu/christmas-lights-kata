@@ -16,7 +16,6 @@ Le programme doit :
    - le nombre de lumières allumées (Partie 1)
    - la luminosité totale (Partie 2)
 
-Toutes les instructions suivent le format :
 ---
 
 ## Partie 1 – Nombre de lumières allumées
